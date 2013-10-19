@@ -5,6 +5,6 @@ ferry-study-git
 
 Creating a new branch is quick and simple.
 
-update readme
+update readme and issue-101
 
 test stash
