@@ -9,4 +9,4 @@ update readme and issue-101
 
 test stash
 
-test stash with apply command
+test stash with apply command update fea
