@@ -5,3 +5,4 @@ b = ['haha', 'gaga', 'heihei']
 for w in b:
 	print w
 
+print 'I love git'
